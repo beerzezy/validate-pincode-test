@@ -1,1 +1,4 @@
-# validate-pincode-test
+# Validate Pincode
+
+Run:
+- `go run main.go`
